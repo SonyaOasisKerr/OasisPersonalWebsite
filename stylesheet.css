@@ -1,5 +1,15 @@
-* {
+#everything {
     background-color: green;
+}
+
+#katy {
+    display: inline-block;
+    width: 25%;
+}
+
+li img {
+    width: 200px;
+    height: 100px;
 }
 
 ul {
@@ -27,3 +37,27 @@ ul li {
     font-family: "Brush Script MT";
     text-align: center
 }
+
+.cyan {
+    background-color: cyan;
+}
+
+.ScheduleT{
+    padding-bottom: 40px;
+}
+
+table {
+ border: 1px solid black; 
+ margin-left: 250px;
+ margin-right: 50px;
+ display: inline-block;
+}
+
+td, th{
+    font-size: 35px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+
+

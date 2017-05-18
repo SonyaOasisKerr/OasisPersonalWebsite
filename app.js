@@ -24,7 +24,7 @@ var main = function(){
            $('.favW').addClass("Open").show();
   });
   $('.btn-Extra').click(function(){
-           $('.cyan > .Tab').removeClass("Open").hide();
+           $('.Tab').removeClass("Open").hide();
            $('.extra').addClass("Open").show();
   });
 };

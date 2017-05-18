@@ -2,6 +2,10 @@
     background-color: green;
 }
 
+img {
+ display: inline-block;   
+}
+
 #katy {
     display: inline-block;
     width: 25%;

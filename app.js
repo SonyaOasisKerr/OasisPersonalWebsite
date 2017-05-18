@@ -32,5 +32,5 @@ var main = function(){
 
 $(document).ready(main);
 $(document).ready(function(){
-  $('.Tab').remove
+  $('.cyan > .Tab').removeClass("Open").hide();
 });

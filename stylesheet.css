@@ -7,6 +7,10 @@
     width: 25%;
 }
 
+.Tab{
+  padding: 50px;
+}
+
 li img {
     width: 200px;
     height: 100px;
@@ -18,7 +22,7 @@ ul {
 
 ul li {
     height: 25px;
-    width: 150px; 
+    width: 150px;
     background-color: #F00;
     display: inline-block;
     border-radius: 5px;
@@ -47,7 +51,7 @@ ul li {
 }
 
 table {
- border: 1px solid black; 
+ border: 1px solid black;
  margin-left: 250px;
  margin-right: 50px;
  display: inline-block;
@@ -58,3 +62,4 @@ td, th{
     text-align: center;
     border: 1px solid black;
 }
+

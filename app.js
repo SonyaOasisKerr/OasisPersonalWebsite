@@ -23,9 +23,9 @@ var main = function(){
            $('.Tab').removeClass("Open").hide();
            $('.favW').addClass("Open").show();
   });
-  $('.btn-Other').click(function(){
+  $('.btn-Extra').click(function(){
            $('.cyan > .Tab').removeClass("Open").hide();
-           $('.other').addClass("Open").show();
+           $('.extra').addClass("Open").show();
   });
 };
 
